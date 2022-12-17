@@ -15,7 +15,7 @@
 
 ## 1- Clona este repositorio
 
-En la consola de **Git**: `git clone https://github.com/ron2452/entrega-final.git`
+En la consola de **Git**: `git clone https://github.com/ChristopferC/Backend-EntregaFinal-1.git`
 
 ## 2- Instala las dependencias
 
