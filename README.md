@@ -6,11 +6,12 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # **Entrega Final**
+
 [![Coderhouse](./logo_coderhouse.png)](https://www.coderhouse.com/)
 
 * Podés visitar la pagina **[acá](https://entrega-final-backend.herokuapp.com/)**.
-
 * La entrega final del curso de **Back End** de [CoderHouse](https://www.coderhouse.com/) consiste en funcionalidades de un e-commerce basado en [node](http://nodejs.org) y [express](https://www.npmjs.com/package/express).
+
 # **Instalación**
 
 ## 1- Clona este repositorio
@@ -20,6 +21,7 @@ En la consola de **Git**: `git clone https://github.com/ron2452/entrega-final.gi
 ## 2- Instala las dependencias
 
 En la consola del proyecto: `npm i --save`
+
 ## **Scripts**
 
 Iniciar la app con forever:
@@ -30,6 +32,7 @@ Iniciar test de autocannon:
 `npm run test`
 
 ## **Argumentos de entrada**:
+
 ```
     --p / --port         se utiliza para definir el puerto
     --m / --mode         se utiliza para elegir entre fork o cluster
@@ -141,6 +144,7 @@ Las vistas de ejs se encuentran en *src/views* mientras que las de handlebars se
 
 Express-session es utilizada para crear las sessions de los usuarios.
 Su configuracion se encuentra en *src/config.js*.
+
 ## *firebase & firebase-admin*
 
 [**Documentación firebase**](https://www.npmjs.com/package/firebase)
@@ -148,6 +152,7 @@ Su configuracion se encuentra en *src/config.js*.
 
 Firebase y firebase-admin son necesarias para utilizar y manejar la base de datos de Firestore.
 Su conexión se encuentra en *src/config.js*.
+
 ## *forever*
 
 [**Documentación forever**](https://www.npmjs.com/package/forever)
@@ -215,3 +220,5 @@ International Telephone Input es un script utilizado en el registro de usuario p
 Su configuración se encuentra en *public/js/intTelInput/config.js*.
 
 ![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)
+#   B a c k e n d - E n t r e g a F i n a l  
+ 
