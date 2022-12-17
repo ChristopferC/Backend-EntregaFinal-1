@@ -8,8 +8,6 @@
 # **Entrega Final**
 [![Coderhouse](./logo_coderhouse.png)](https://www.coderhouse.com/)
 
-* Podés visitar la pagina **[acá](https://entrega-final-backend.herokuapp.com/)**.
-
 * La entrega final del curso de **Back End** de [CoderHouse](https://www.coderhouse.com/) consiste en funcionalidades de un e-commerce basado en [node](http://nodejs.org) y [express](https://www.npmjs.com/package/express).
 # **Instalación**
 
